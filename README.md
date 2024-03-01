@@ -6,10 +6,13 @@ This project aims to develop a machine learning model to predict the resale pric
 
 Skills Developed
 
-	Data Wrangling
-	Exploratory Data Analysis (EDA)
-	Model Building
-	Model Deployment
+✔	Data Wrangling
+
+✔	Exploratory Data Analysis (EDA)
+
+✔	Model Building
+
+✔	Model Deployment
 
 Domain
 
@@ -28,28 +31,28 @@ Scope
 The project includes the following tasks :
 
 1. Data Collection and Preprocessing :
-	Collect a dataset of resale flat transactions from the Singapore Housing and Development Board (HDB) for the years 1990 to Till Date.
-	Preprocess the data to clean and structure it for machine learning.
+✔	Collect a dataset of resale flat transactions from the Singapore Housing and Development Board (HDB) for the years 1990 to Till Date.
+✔	Preprocess the data to clean and structure it for machine learning.
 
 2. Feature Engineering :
-	Extract relevant features from the dataset, including town, flat type, storey range, floor area, flat model, and lease commence date.
-	Create any additional features that may enhance prediction accuracy.
+✔	Extract relevant features from the dataset, including town, flat type, storey range, floor area, flat model, and lease commence date.
+✔	Create any additional features that may enhance prediction accuracy.
 
 3. Model Selection and Training :
-	Choose an appropriate machine learning model for regression (e.g., linear regression, decision trees, or random forests).
-	Train the model on the historical data, using a portion of the dataset for training.
+✔	Choose an appropriate machine learning model for regression (e.g., linear regression, decision trees, or random forests).
+✔	Train the model on the historical data, using a portion of the dataset for training.
 
 4. Model Evaluation :
-	Evaluate the model's predictive performance using regression metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), or Root Mean Squared Error (RMSE) and R2 Score.
+✔	Evaluate the model's predictive performance using regression metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), or Root Mean Squared Error (RMSE) and R2 Score.
 
 5. Streamlit Web Application :
-	Develop a user-friendly web application using Streamlit that allows users to input details of a flat and obtain resale price predictions.
+✔	Develop a user-friendly web application using Streamlit that allows users to input details of a flat and obtain resale price predictions.
 
 6. Deployment on Render :
-	Deploy the Streamlit application on the Render platform to make it accessible to users over the internet.
+✔	Deploy the Streamlit application on the Render platform to make it accessible to users over the internet.
 
 7. Testing and Validation :
-	Thoroughly test the deployed application to ensure it functions correctly and provides accurate predictions.
+✔	Thoroughly test the deployed application to ensure it functions correctly and provides accurate predictions.
 
 Deliverables
 
@@ -70,11 +73,11 @@ The project benefits both potential buyers and sellers in the Singapore housing 
 
 Project Evaluation Metrics
 
-	Code modularization (in functional blocks).
-	Maintainability.
-	Portability across different environments.
-	Code maintained on GitHub (public repository).
-	Proper README file with project development details.
-	Follow Python coding standards (PEP 8).
-	Create a demo video of the working model and post it on LinkedIn.
+✔	Code modularization (in functional blocks).
+✔	Maintainability.
+✔	Portability across different environments.
+✔	Code maintained on GitHub (public repository).
+✔	Proper README file with project development details.
+✔	Follow Python coding standards (PEP 8).
+✔	Create a demo video of the working model and post it on LinkedIn.
 
