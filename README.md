@@ -68,9 +68,9 @@ Deliverables
 
 The project will deliver the following :
 
-✔ A well✔trained machine learning model for resale price prediction.
+✔ A well-trained machine learning model for resale price prediction.
   
-✔ A user✔friendly web application (built with Streamlit/Flask/Django) deployed on the Render platform/Any Cloud Platform.
+✔ A user-friendly web application (built with Streamlit/Flask/Django) deployed on the Render platform/Any Cloud Platform.
   
 ✔ Documentation and instructions for using the application.
   
