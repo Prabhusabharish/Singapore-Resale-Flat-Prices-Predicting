@@ -54,7 +54,7 @@ The project includes the following tasks :
 
 9. Streamlit Web Application :
     
-✔	Develop a user✔friendly web application using Streamlit that allows users to input details of a flat and obtain resale price predictions.
+✔	Develop a user-friendly web application using Streamlit that allows users to input details of a flat and obtain resale price predictions.
 
 11. Deployment on Render :
     
