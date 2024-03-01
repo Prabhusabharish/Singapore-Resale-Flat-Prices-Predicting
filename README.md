@@ -1,10 +1,10 @@
-SINGAPORE RESALE FLAT PRICES PREDICTING
+**SINGAPORE RESALE FLAT PRICES PREDICTING**
 
-Project Overview
+**Project Overview**
 
 This project aims to develop a machine learning model to predict the resale prices of flats in Singapore. The model is based on historical data of resale flat transactions, providing users with estimated resale prices based on various factors such as location, flat type, floor area, and lease duration.
 
-Skills Developed
+**Skills Developed**
 
 ✔	Data Wrangling
 
@@ -14,59 +14,59 @@ Skills Developed
 
 ✔	Model Deployment
 
-Domain
+**Domain**
 
-Real Estate
+**Real Estate**
 
-Problem Statement
+**Problem Statement**
 
 The competitive resale flat market in Singapore makes it challenging to accurately estimate the resale value of a flat. This project addresses this issue by developing a predictive model that takes into account various factors influencing resale prices.
 
-Motivation
+**Motivation**
 
 The motivation behind this project is to assist potential buyers and sellers in making informed decisions. The resale flat market is influenced by factors like location, flat type, floor area, and lease duration. The machine learning model aims to provide accurate predictions based on these factors.
 
-Scope
+**Scope**
 
-The project includes the following tasks :
+**The project includes the following tasks** :
 
-1. Data Collection and Preprocessing :
+**1. Data Collection and Preprocessing** :
    
 ✔	Collect a dataset of resale flat transactions from the Singapore Housing and Development Board (HDB) for the years 1990 to Till Date.
 
 ✔	Preprocess the data to clean and structure it for machine learning.
 
-3. Feature Engineering :
+**2. Feature Engineering **:
    
 ✔	Extract relevant features from the dataset, including town, flat type, storey range, floor area, flat model, and lease commence date.
 
 ✔	Create any additional features that may enhance prediction accuracy.
 
-5. Model Selection and Training :
+**3. Model Selection and Training** :
    
 ✔	Choose an appropriate machine learning model for regression (e.g., linear regression, decision trees, or random forests).
 
 ✔	Train the model on the historical data, using a portion of the dataset for training.
 
-7. Model Evaluation :
+**4. Model Evaluation :**
    
 ✔	Evaluate the model's predictive performance using regression metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), or Root Mean Squared Error (RMSE) and R2 Score.
 
-9. Streamlit Web Application :
+**5. Streamlit Web Application :**
     
 ✔	Develop a user-friendly web application using Streamlit that allows users to input details of a flat and obtain resale price predictions.
 
-11. Deployment on Render :
+**6. Deployment on Render :**
     
 ✔	Deploy the Streamlit application on the Render platform to make it accessible to users over the internet.
 
-13. Testing and Validation :
+**7. Testing and Validation :**
     
 ✔	Thoroughly test the deployed application to ensure it functions correctly and provides accurate predictions.
 
-Deliverables
+**Deliverables**
 
-The project will deliver the following :
+**The project will deliver the following :**
 
 ✔ A well-trained machine learning model for resale price prediction.
   
@@ -77,15 +77,15 @@ The project will deliver the following :
 ✔ A project report summarizing the data analysis, model development, and deployment process.
   
 
-Data Source
+**Data Source**
 
 [Dataset Link]( https://beta.data.gov.sg/collections/189/view)
 
-Results
+**Results**
 
 The project benefits both potential buyers and sellers in the Singapore housing market, providing them with a tool to estimate resale prices and make informed decisions. Additionally, it demonstrates the practical application of machine learning in real estate and web development.
 
-Project Evaluation Metrics
+**Project Evaluation Metrics**
 
 ✔	Code modularization (in functional blocks).
 
