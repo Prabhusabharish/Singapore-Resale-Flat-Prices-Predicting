@@ -36,7 +36,7 @@ The motivation behind this project is to assist potential buyers and sellers in 
 
 ✔	Preprocess the data to clean and structure it for machine learning.
 
-**2. Feature Engineering **:
+**2. Feature Engineering:**
    
 ✔	Extract relevant features from the dataset, including town, flat type, storey range, floor area, flat model, and lease commence date.
 
